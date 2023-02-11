@@ -1,6 +1,6 @@
-# EDA_Gender_Prediction
+# EDA Clothes Gender Prediction
 
-In that repo I presente to you a presentation with 3 slides showing the dataset and insights dedicated to non technical teams (Sale Team, Marketing team, ..). The main goal of that presentation is to demonstrate the importance of a data analysis part in the process of data science. 
+The main goal of that presentation is to demonstrate the importance of a data analysis part in the process of data science. 
 I tried to tell story througth the data, starting with some assumptions that resonate with my audiance and at the end have a clear answers and insights. In addition, those insights can be useful for the predicting phase.
 
 In the notebook enclosed, i splitted my work into 3 phases:
