@@ -8,5 +8,5 @@ In the notebook enclosed, i splitted my work into 3 phases:
 2. Gender Prediction : Following the EDA, I decided to predict the gender. Since the data is imbalanced, it is interesting to evaluate the model performance according a businnesswise objectif.
 3. Model Limitation Study : How can we improve the model if a mistake in classifying male is equal to five mistakes in classifying females knowing that classifying male correctly is more important than classifying females correctly. It is the question I answer.
 
-In that porject, I don't try to have the best model, but I try to figure out if the model is suitable for the purpose of the company (company that doesn't exist that let s imagine it is). I use several metric to evaluate the model and explain for each of them why it can be interesting to use it.
+In that porject, I don't try to have the best model, but I try to figure out if the model is suitable for the purpose of the company. I use several metric to evaluate the model and explain for each of them why it can be interesting to use it.
 
